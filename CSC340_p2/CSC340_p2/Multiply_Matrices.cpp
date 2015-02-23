@@ -29,7 +29,7 @@ int main() {
     
     cout <<"\n\nEnter values for Matrix A :::\n\n";
     
-    for(int i = 0; i < row_A; i++){                    //For each row enter the value for that [row_A][colomn_B] i.e. for row[0],colomn[0] enter value, i++,j++ --> [0][1]...
+    for(int i = 0; i < row_A; i++){                    //For each row enter the value for that [row_A][colomn_A] i.e. for row[0],colomn[0] enter value, i++,j++ --> [0][1]...
         for( int j = 0; j < col_A; j++){
             cin >> matrixA[i][j];
         }
