@@ -79,8 +79,8 @@ void multiply_matrices(vector< vector<int>>matrixA, vector< vector<int>> matrixB
         cout << "\n\n";
     }
     
-    if(row_B == col_A){                                     //Perform multiplication only if the colomns in A equal the number of rows in B
-        product.resize(row_B, vector<int>(col_A));          //Resize product vector so that it has the same amount of rows as B and colomns of A
+    if(row_B == col_A){             //Perform multiplication only if the colomns in A equal the number of rows in B
+        product.resize(row_B, vector<int>(col_A));   //Resize product vector so that it has the same amount of rows as B and colomns of A
         
         for(int i=0; i<row_A; i++){
             for(int j=0; j<col_B; j++){
