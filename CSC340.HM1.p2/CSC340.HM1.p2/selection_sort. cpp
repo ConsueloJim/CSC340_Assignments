@@ -1,10 +1,9 @@
 //
-//  main.cpp
+//  selection_sort.cpp
 //  CSC340.HM1.p2
-//
 //  Created by Consuelo Jimenez on 2/17/15.
 //  Copyright (c) 2015 Consuelo Jimenez. All rights reserved.
-//
+//  Desription : Given an array of numbers from the user, sort them in ascending order. 
 
 #include <iostream>
 #include <string>
@@ -22,7 +21,7 @@ void printVector(vector<int> &numbers);
     cout << "Please enter an array of numbers. Enter -1 when finished: ";
     cin >> input;
     
-    //Ends while loop when it sees -1
+    //Ends while loop when it sees -1                     //Pushes values into vector numbers, stopping while loop when it see -1
     while( input != -1) {
         numbers.push_back(input);
         cin >> input;
@@ -30,7 +29,7 @@ void printVector(vector<int> &numbers);
     return numbers;
 }
 
-vector<int> selectionSort(vector<int> &numbers){
+vector<int> selectionSort(vector<int> &numbers){          //Simple selection sort algorithm 
     int startScan, minIndex, minValue;
    
     for( startScan = 0; startScan< numbers.size()-1; startScan++){
@@ -52,7 +51,7 @@ vector<int> selectionSort(vector<int> &numbers){
   
 }
 
-void printVector(vector<int> &numbers){
+void printVector(vector<int> &numbers){                    //Prints sorted vector numbers
     
     for(int i=0; i<numbers.size(); i++) {
         cout << numbers[i] << " ";
