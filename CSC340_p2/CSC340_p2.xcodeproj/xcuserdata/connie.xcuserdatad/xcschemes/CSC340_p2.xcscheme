@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "F9AB35EF1A85309E00668F20"
-               BuildableName = "CSC340.HM1"
-               BlueprintName = "CSC340.HM1"
-               ReferencedContainer = "container:CSC340.HM1.xcodeproj">
+               BlueprintIdentifier = "F97C597D1A990B5300CF6AC5"
+               BuildableName = "CSC340_p2"
+               BlueprintName = "CSC340_p2"
+               ReferencedContainer = "container:CSC340_p2.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "F9AB35EF1A85309E00668F20"
-            BuildableName = "CSC340.HM1"
-            BlueprintName = "CSC340.HM1"
-            ReferencedContainer = "container:CSC340.HM1.xcodeproj">
+            BlueprintIdentifier = "F97C597D1A990B5300CF6AC5"
+            BuildableName = "CSC340_p2"
+            BlueprintName = "CSC340_p2"
+            ReferencedContainer = "container:CSC340_p2.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -51,10 +51,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "F9AB35EF1A85309E00668F20"
-            BuildableName = "CSC340.HM1"
-            BlueprintName = "CSC340.HM1"
-            ReferencedContainer = "container:CSC340.HM1.xcodeproj">
+            BlueprintIdentifier = "F97C597D1A990B5300CF6AC5"
+            BuildableName = "CSC340_p2"
+            BlueprintName = "CSC340_p2"
+            ReferencedContainer = "container:CSC340_p2.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -69,10 +69,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "F9AB35EF1A85309E00668F20"
-            BuildableName = "CSC340.HM1"
-            BlueprintName = "CSC340.HM1"
-            ReferencedContainer = "container:CSC340.HM1.xcodeproj">
+            BlueprintIdentifier = "F97C597D1A990B5300CF6AC5"
+            BuildableName = "CSC340_p2"
+            BlueprintName = "CSC340_p2"
+            ReferencedContainer = "container:CSC340_p2.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
