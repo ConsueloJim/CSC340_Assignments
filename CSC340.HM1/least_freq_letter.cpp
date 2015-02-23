@@ -2,7 +2,6 @@
 //  ID #  : 910073832
 //  Assign: CSC340 Homework 1
 //  Date  : February 6, 2015
-//  Email : consuelo@mail.sfsu.edu
 //  Copyright (c) 2015 Consuelo Jimenez. All rights reserved.
 
 #include <iostream>
