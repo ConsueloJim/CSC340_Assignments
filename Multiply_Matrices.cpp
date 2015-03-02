@@ -1,10 +1,3 @@
-/*
-Name   : Consuelo Jimenez
-ID #   : 910073832
-Class  : CSC340.01
-Assign : Homework 2, Problem 2
-Date   : 2/27/2015
-*/
 
 #include <iostream>
 #include <vector>
