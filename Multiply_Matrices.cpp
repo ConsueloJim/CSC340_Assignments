@@ -4,11 +4,9 @@
 #include <fstream>
 #include <stdlib.h>
 
-
 using namespace std;
 
 void multiply_matrices( vector< vector<int>> matrixA, vector< vector<int>> matrixB, int row_A, int row_B, int col_A, int col_B);
-
 
 int main() {
     
