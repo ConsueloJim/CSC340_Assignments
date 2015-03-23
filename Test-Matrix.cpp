@@ -1,10 +1,5 @@
 /* ************************************************************************************************************
  * ************************************************************************************************************
- * Name        : Consuelo Jimenez
- * Class       : CSC340.02
- * Project     : Project #4, Part 2
- * Date        : 03/17/15
- * 
  * Description : 
  * 
  * The purpose of this program is to implement the Matrix class using matrix.h and matrix.cpp. It first gets 
